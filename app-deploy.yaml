@@ -20,6 +20,7 @@ metadata:
     stack.appsody.dev/id: java-openliberty
     stack.appsody.dev/version: 0.1.3
   name: modresortswar
+  namespace: kabanero
 spec:
   applicationImage: dev.local/modresortswar
   createKnativeService: false
